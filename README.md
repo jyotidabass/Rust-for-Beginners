@@ -24,6 +24,7 @@ A hands-on collection of Rust examples designed for **absolute beginners** — n
 7. [Common Errors & Fixes](#common-errors--fixes)
 8. [Tips for Learning Rust](#tips-for-learning-rust)
 9. [Next Steps](#next-steps)
+10. [Blog Post](#blog-post)
 
 ---
 
@@ -773,6 +774,16 @@ Once you're comfortable with all 9 examples, here's where to go next:
 - 🏋️ **Rustlings** — small interactive exercises: https://github.com/rust-lang/rustlings
 - 🎮 **Exercism Rust track** — practice problems with mentorship: https://exercism.org/tracks/rust
 - 📖 **Rust by Example** — code-first learning: https://doc.rust-lang.org/rust-by-example/
+
+---
+
+## Blog Post
+
+A detailed plain-English walkthrough of all 9 examples in this repository is available as a Medium article:
+
+**[Rust for Beginners: A Complete Plain-English Guide to Your First 9 Rust Programs](https://medium.com/tech-ai-made-easy/rust-for-beginners-a-complete-plain-english-guide-to-your-first-9-rust-programs-b9c863172e52?sk=d853f2fef7a88484a11ece2af72261b4)**
+
+The article covers every example with in-depth explanations — ideal if you prefer reading a narrative walkthrough alongside the code.
 
 ---
 
