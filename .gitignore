@@ -1,0 +1,32 @@
+# Rust compiled files
+*.exe
+*.pdb
+*.o
+*.so
+*.dylib
+
+# Rust build artifacts
+target/
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Examples compiled binaries
+examples/01_hello_world
+examples/02_variables
+examples/03_data_types
+examples/04_functions
+examples/05_control_flow
+examples/06_ownership
+examples/07_structs
+examples/08_enums
+examples/09_collections
